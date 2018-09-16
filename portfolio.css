@@ -1,0 +1,169 @@
+
+.welcomeimage {
+    background:url(./testbg.svg);
+    height: 40%;
+    background-size: cover;
+}
+.bg {
+    background-color: #052859;
+    height: 50rem;
+}
+.rowone {
+    margin-bottom: 4rem
+}
+.imagecol {
+    background:url(http://cdn1.smartvectorpics.com/images/imagesbase/dicons/rainy_night.jpg);
+    border-radius: 5px;
+    background-size: cover;
+    background-position: top;
+    position: relative;
+    bottom: 18rem;
+    height: 20rem;
+    border: 2px white;
+}
+
+.rowtwo {
+    margin-bottom: 8rem;
+}
+
+.introrow {
+    background:url(./testbg.svg);
+    background-size: cover;
+    margin-bottom: 2rem;
+}
+.introtext {
+    padding-right: 2rem;
+    padding-left: 2rem;
+    line-height: 2.7;
+    font-family: 'Poppins', sans-serif;
+    color: #a0dee8;
+}
+.bioimage {
+    border-radius: 45px;
+    border: 4px solid white;
+}
+.introheader {
+    font-family: 'Cormorant Upright', serif;
+    font-size: 55px;
+    letter-spacing: 5px;
+}
+.portfoliotext {
+    font-family: 'Poppins', sans-serif;
+}
+.portfoliorow a {
+    color: black;
+}
+.porthead {
+    font-size: 2rem;
+}
+
+.carousel .indicators .indicator-item {
+    background-color: black;
+}
+
+.carousel .indicators .indicator-item.active {
+    background-color: black;
+}
+.carousel.carousel-slider .carousel-item h2 {
+    margin: 0px;
+    padding: 0px;
+}
+.carousel .carousel-item>img {
+    width: 50%;
+}
+.carousel.carousel-slider {
+    height: 36rem!important;
+}
+.tabs .indicator {
+    background-color: transparent;
+    width: 30%;
+    bottom: 5px
+}
+.tabs .tab {
+    text-transform: none;
+    height: 10rem;
+}
+.tabs {
+    height: 4rem;
+}
+.tabs .tab a:focus, .tabs .tab a:focus.active {
+    background-color: transparent;
+}
+.tabs .tab a {
+    color: black;
+}
+.tabs .tab a:hover, .tabs .tab a.active {
+    color: black;
+    opacity: .4;
+}
+
+.portfoliorow {
+    margin-bottom: 4rem;
+}
+.firstpanel {
+    background:url();
+    background-size: cover;
+}
+
+.paneloneimage {
+    border-radius: 10px;
+}
+
+.findmerow {
+    background:url(./testbg.svg);
+    background-size: cover;
+}
+.findmeimage {
+    border-radius: 10px;
+    border: 4px solid white;
+    z-index: 1;
+}
+.findmelink {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+.findmeheadtext {
+    font-family: 'Cormorant Upright', serif;
+    font-size: 55px;
+    letter-spacing: 6px;
+}
+.findmerow a {
+    color: #a0dee8;
+}
+.thankyourow {
+    background:url(./testbg.svg);
+    background-size: cover;
+    margin-bottom: 0px;
+    height: 30%;
+    padding-top: 1.5rem;
+}
+.infotext {
+    font-family: 'Poppins', sans-serif;
+}
+.outrotext {
+    font-family: 'Poppins', sans-serif;
+}
+.btn {
+    color: black;
+    margin: 15px;
+}
+.thankyoutext {
+    font-family: 'Cormorant Upright', serif;
+    font-size: 55px;
+    letter-spacing: 6px;
+}
+.infotoptext {
+    font-family: 'Cormorant Upright', serif;
+    font-size: 55px;
+    letter-spacing: 6px;
+}
+.nav li {
+    display: inline-block;
+    padding: 3rem;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.6rem;
+}
+.nav a {
+    color: white;
+}
